@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("modified by master");
         System.out.println("Hello git4!");
         System.out.println("modified by hot-fix");
+        System.out.println("modified by jsj");
     }
 }
